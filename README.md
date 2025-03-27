@@ -15,7 +15,7 @@ Aqui você vai encontrar repositórios com meus projetos e também alguns resumo
 </div>
 <br />
 <div>  
-  <a href="https://portfolio-vitor-hugo.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-%23025e00?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://portfolio-vitor-hugo.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-%23025e00?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   <a href="mailto:vitorhugoalvesmachado@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23FF5000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-hugo-alves-machado-1621bb156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230056b3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
