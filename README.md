@@ -24,7 +24,7 @@ Aqui você vai encontrar repositórios com meus projetos e também alguns resumo
   <a href="https://portfolio-vitor-hugo.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-%2310E7C5?style=for-the-badge&logo=visual-studio-code&logoColor=black&color=07af93"></a>
   <a href="mailto:ovitorhugoalvesmachado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vitor-hugo-machado-1621bb156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230056b3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://rangos.onrender.com/restaurantes" target="_blank"><img src="https://img.shields.io/badge/Projeto%20Rangos-2D2D2D?style=for-the-badge" alt="Projeto Rangos"></a>
+  <a href="https://rangos-app-production.up.railway.app/restaurantes" target="_blank"><img src="https://img.shields.io/badge/Projeto%20Rangos-2D2D2D?style=for-the-badge" alt="Projeto Rangos"></a>
   <a href="https://wikimovie.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Projeto%20Wiki%20Movie-005af2?style=for-the-badge&logoColor=white" alt="Projeto Wiki Movie"></a>
 
 </div>
